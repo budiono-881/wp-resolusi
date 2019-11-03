@@ -5,6 +5,7 @@ RENCANA KONTEN WP
   *ES6
   *Framework Javascript
      ^ Vue
+     ^ react
   * Struktur data dasar
 - JAVA
 - FRAMEWORK CI/LARAVEL
