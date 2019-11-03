@@ -11,5 +11,5 @@ RENCANA KONTEN WP
 - FRAMEWORK CI/LARAVEL
    ^ Laravel
 - Interview
-- Vlog
+- Vlogs
 - Python
