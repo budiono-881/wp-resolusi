@@ -4,6 +4,11 @@ RENCANA KONTEN WP
 - JAVASCRIPT
   *ES6
   *Framework Javascript
+     ^ Vue
   * Struktur data dasar
 - JAVA
 - FRAMEWORK CI/LARAVEL
+   ^ Laravel
+- Interview
+- Vlog
+- Python
