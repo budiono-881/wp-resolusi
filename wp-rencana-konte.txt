@@ -1,0 +1,6 @@
+RENCANA KONTEN WP
+----------------------
+- PHP
+- JAVASCRIPT
+- JAVA
+- FRAMEWORK CI/LARAVEL
