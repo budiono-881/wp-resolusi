@@ -3,6 +3,6 @@ RENCANA KONTEN WP
 - PHP
 - JAVASCRIPT
   *ES6
-  Framework Javascript
+  *Framework Javascript
 - JAVA
 - FRAMEWORK CI/LARAVEL
